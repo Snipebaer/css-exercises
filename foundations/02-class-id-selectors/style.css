@@ -1,0 +1,19 @@
+.paragraphs {
+    background-color: pink;
+    font-family: "Verdana", "DeJaVu Sans", sans-serif;
+}
+
+#secondelement {
+    color: blue;
+    font-size: 36px;
+}
+
+.paragraphs.coolerParagraphs {
+    font-size: 24px;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
