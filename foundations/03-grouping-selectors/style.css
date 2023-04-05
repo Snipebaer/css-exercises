@@ -1,0 +1,16 @@
+.bigblackbutton,
+.bigyellowbutton {
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.bigblackbutton {
+
+    background-color: black;
+    color: white;    
+}
+
+.bigyellowbutton {
+
+    background-color: yellow;   
+}
